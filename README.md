@@ -10,5 +10,8 @@ Kosovnica:
 -220 upor 3x
 -arduino uno plošča
 -proto board
+
 ![image](https://github.com/Rojsn/-Arduino_krmiljenje_transporta_palet/assets/84129326/afefb1ad-2756-4088-893b-a7ce9300bdee)
+
+
 
