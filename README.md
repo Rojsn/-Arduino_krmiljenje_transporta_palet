@@ -25,5 +25,5 @@ VIDEO:
 https://github.com/Rojsn/-Arduino_krmiljenje_transporta_palet/assets/84129326/8d2f1901-7818-4c83-9c46-9c349ca22df5
 
 KOMENTAR:
-Menim, da je bila naloga kar zabavna in interaktivna, saj sva lahko z arduinom ponazarila delovanje v realnem svetu.
+Menim, da je bila naloga kar zabavna in interaktivna, saj sva lahko z arduinom ponazarila delovanje v realnem svetu na preprost način. Kar bi edino spremenil pri nalogi je dodajanje motorčkov namesto žarnic za še lepše delovanje. Drugih pripomb nimam, saj je bila naloga zabavna.
 
